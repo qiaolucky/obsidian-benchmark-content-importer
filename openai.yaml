@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian 对标内容导入"
+  short_description: "从小红书和公众号链接提取正文、媒体与文字并导入 Obsidian"
+  default_prompt: "Use $obsidian-benchmark-content-importer to import this social-media or WeChat article link into my Obsidian knowledge base."
